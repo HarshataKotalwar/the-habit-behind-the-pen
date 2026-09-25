@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# SQLite temporary files
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Tableau temporary/recovery files
+*.twbr
