@@ -20,5 +20,4 @@ The project follows a complete analytics workflow:
 
 **Business Understanding → Research → Data Generation → Data Validation → SQL Analysis → Python EDA → Tableau Dashboard → Business Recommendations**
 
-The analysis explores how users engage with the platform, how journaling behavior changes over time, how reminders contribute to engagement, and how subscription behavior relates to user activity.# the-habit-behind-the-pen
-A product analytics case study exploring user retention and engagement in a fictional digital journaling platform using SQL, Python, and Power BI.
+The analysis explores how users engage with the platform, how journaling behavior changes over time, how reminders contribute to engagement, and how subscription behavior relates to user activity.
